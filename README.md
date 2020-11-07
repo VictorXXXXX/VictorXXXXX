@@ -1,8 +1,8 @@
 ## 👋 Hi there 
 
 I am __Victor__.   
-I recently graduated from __New York University__, with a master's degree in __financial engineering__.  
-In the final year of my undergraduate study, I just found that I have great interest in __quantitative finance__.  
+I graduated from __New York University__, with a master's degree in __financial engineering__.  
+In the final year of my undergraduate study, I just found that I am fascinated by __quantitative finance__.  
 As all the wildest dreams in Wall Street, I decided to seek a career in this amazing field.  
 And that's what brings me to __New York__.  
   
