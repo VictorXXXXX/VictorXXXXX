@@ -12,7 +12,7 @@ Asset allocation, active portfolio management.
 Machine Learning, Deep Learning, Reinforcement Learning or other evolving AI techniques & application in finance.
 
 ## 🤔 I’m currently learning ...
-[Deep Learning in Natuaral Language Processing](https://www.deeplearning.ai/natural-language-processing-specialization/)
+[Deep Learning in Natural Language Processing](https://www.deeplearning.ai/natural-language-processing-specialization/)
 
 ## 💬 How to reach me:
   guoqin827[AT]gmail.com
